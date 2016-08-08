@@ -1,0 +1,21 @@
+{
+  "name": "emojit",
+  "version": "1.0.0",
+  "description": "A Command Line Tool to help you write commits using emojis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "commit",
+    "message",
+    "emoji",
+    "cli"
+  ],
+  "author": "Pixby",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^1.1.2"
+  }
+}
