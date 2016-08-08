@@ -1,9 +1,19 @@
 # Emojit
 Command Line Tool to help you write commits using emojis.
 
-## Installation
-- npm install `emojit`
+## Usage
+
+```
+# install yo
+npm install -g emojit
+```
 
 ## Development
-- `git clone`
-- `npm install`
+
+```
+# clone repo
+git clone
+
+# install dependencies
+npm install
+```
