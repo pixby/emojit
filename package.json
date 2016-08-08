@@ -17,5 +17,8 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^1.1.2"
+  },
+  "bin": {
+    "emojit": "./index.js"
   }
 }

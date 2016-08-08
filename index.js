@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 /**
  * Emojit.js
  * A Command Line Tool to help you write commits using emojis.
