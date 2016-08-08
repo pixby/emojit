@@ -31,7 +31,7 @@ var emojis = [
 		value: ':arrow_up:'
 	},
 	{
-		name: '⬇  Upgrading dependencies',
+		name: '⬇  Downgrading dependencies',
 		value: ':arrow_down:'
 	},
 	{
