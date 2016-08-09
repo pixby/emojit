@@ -1,10 +1,8 @@
 # Emojit
 Command Line Tool to help you write commits using emojis.  
-Instead of using `git commit` for writing your commit messages, use `emojit` and you will:
+Instead of using `git commit` use `emojit`.
 
-- 1) first select emoji based on the type of your commit
-- 2) then enter the commit message
-
+![Example](docs/emojit.gif)
 
 ## Usage
 
