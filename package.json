@@ -1,6 +1,6 @@
 {
   "name": "emojit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Command Line Tool to help you write commits using emojis.",
   "main": "index.js",
   "scripts": {
